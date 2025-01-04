@@ -1,0 +1,140 @@
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 280px;
+  padding: 20px;
+  border-radius: 10px;
+  height: 220px;
+}
+.jobs-bg-container {
+  background-color: #000000;
+}
+.profile-name {
+  font-family: 'Roboto';
+  color: #6366f1;
+  font-size: 25px;
+}
+.profile-description {
+  font-family: 'Roboto';
+  color: #7e858e;
+  font-size: 15px;
+}
+.hr-line {
+  width: 280px;
+  text-align: start;
+}
+.retry-button {
+  background-color: #4f46e5;
+  padding: 10px;
+  border-radius: 5px;
+  color: #ffffff;
+  border-width: 0px;
+  width: 100px;
+}
+.profile-retry-container {
+  background-color: #000000;
+  width: 280px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 220px;
+}
+.employment-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 20px;
+}
+.label {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 5px;
+}
+
+.jobs {
+  display: flex;
+}
+.search-icon {
+  color: #ffffff;
+  padding: 5px;
+  background-color: #4f46e5;
+  font-size: 20px;
+}
+.search-container {
+  border-style: solid;
+  border-color: #2c364c;
+  border-width: 1px;
+  display: flex;
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.search-input {
+  background: none;
+  border-style: none;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+
+  width: 300px;
+}
+.job-logo {
+  height: 90px;
+  width: 80px;
+  border-radius: 5px;
+}
+.job-container {
+  background-color: #2c364c;
+  width: 600px;
+  padding: 20px;
+  margin: 20px;
+}
+.job-head {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.rating-icon {
+  color: #fbbf24;
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+}
+.job-para-rating {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 3px;
+}
+.head-rating-container {
+  margin-left: 20px;
+}
+.location-icon {
+  color: #ffffff;
+  margin-top: 15px;
+}
+.jobs1 {
+  display: flex;
+  margin-left: 20px;
+}
+.jobs2 {
+  display: flex;
+  justify-content: space-between;
+}
+.jobs3 {
+  display: flex;
+  padding-left: 100px;
+  padding-right: 180px;
+  justify-content: space-between;
+}
+.jobs4 {
+  padding-top: 30px;
+}
+.h1 {
+  text-align: center;
+}
+.p1 {
+  text-align: end;
+}
+.li-item {
+  text-decoration: none;
+}
